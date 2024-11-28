@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color green
+color red
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable marihuyana
+drawable meat
+drawable snake
+id board
+id down
+id left
+id lilu
+id new_game
+id playagain
+id relativeLayout
+id resume
+id right
+id score
+id score2
+id textView
+id up
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Snake
+style Theme.Snake
+xml backup_rules
+xml data_extraction_rules
